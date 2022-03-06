@@ -59,7 +59,7 @@ This exercise provided my first experience with writing tests and utilizing jest
 ***
 ## Screenshots and Demo Videos 
 
-[VIDEO LINK | Full Application Demonstration]()  <br /> 
+[VIDEO LINK | Full Application Demonstration](https://drive.google.com/file/d/1SOlLEWX-sI-Qn-Gpo_FF2veWF0PDxWML/view)  <br /> 
 DESCRIPTION: *Running tests, then creating a My-Team HTML file by following the in-terminal prompts. Verifying that the My-Team file is created and meets project requirements.*
 
 
@@ -72,7 +72,7 @@ SCREENSHOT | *Demo My Team HTML file*
 ![My-Team.html output screenshot.]()
 
 ## MIT License
-&copy;2022
+&copy;2022 Vulong N Pham
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -93,5 +93,5 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## Questions
-For inquiries, please contact [Vulong Pham]().
+For inquiries, please contact [Vulong Pham](https://github.com/vpham26).
 

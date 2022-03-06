@@ -37,7 +37,7 @@ const pageTemplate = function(employeeBucket) {
         </div>
             </div>
           <footer>
-          <p class="position-absolute bottom-0 start-50 translate-middle-x text-center">Team Profile Generator by Daniel Urkov</p>
+          <p class="position-absolute bottom-0 start-50 translate-middle-x text-center">Team Profile Generator by Vulong N Pham</p>
           </footer>
 
           </body>
