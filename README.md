@@ -1,7 +1,7 @@
 # UltimateTeamProfileGenerator
 
 ## 10 Object-Oriented Programming: Team Profile Generator
-[![License: MIT](https://img.shields.io/github/license/vpham26/UltimateTeamProfileGenerator?style=plastic)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://github.com/vpham26/UltimateTeamProfileGenerator/blob/main/LICENSE)](https://opensource.org/licenses/MIT)
 
 
 ## Description 
