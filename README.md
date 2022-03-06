@@ -51,7 +51,7 @@ This exercise provided my first experience with writing tests and utilizing jest
 
 ## Usage
 
-1. Open Team-Profile-Generator (now stored on your machine) in your terminal.
+1. Open UltimateTeamProfileGenerator (now stored on your machine) in your terminal.
 2. Run ``` node index.js ```
 2. You will be prompted to answer questions about your team. Answer each question.
 3. Your My-Team.html file will write to the output folder. 
