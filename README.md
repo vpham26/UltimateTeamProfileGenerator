@@ -65,11 +65,11 @@ DESCRIPTION: *Running tests, then creating a My-Team HTML file by following the 
 
 SCREENSHOT | *Demo console*
 
-![My-Team Console screenshot.]()
+![My-Team Console screenshot.](https://github.com/vpham26/UltimateTeamProfileGenerator/blob/main/images/Screenshot%20(246).png)
 
 SCREENSHOT | *Demo My Team HTML file* 
 
-![My-Team.html output screenshot.]()
+![My-Team.html output screenshot.](https://github.com/vpham26/UltimateTeamProfileGenerator/blob/main/images/Screenshot%20(247).png)
 
 ## MIT License
 &copy;2022 Vulong N Pham
