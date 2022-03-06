@@ -1,8 +1,7 @@
 # UltimateTeamProfileGenerator
 
 ## 10 Object-Oriented Programming: Team Profile Generator
-[![License: MIT](https://github.com/vpham26/UltimateTeamProfileGenerator/blob/main/LICENSE)](https://opensource.org/licenses/MIT)
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description 
 A Node.js command-line application that takes in information about employees on a software engineering team, then generates an HTML webpage that displays summaries for each person. Testing is key to making code maintainable, so the scope of this project includes writing a unit test for every part of the code and ensuring that it passes each test.
